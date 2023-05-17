@@ -1,5 +1,5 @@
 #+title: Crab
 
-[[https://i.postimg.cc/0yv0B5Tz/crab.png]]
+[[https://i.postimg.cc/dV7nCScB/crab.png]]
 
 Project-Oriented Approach for Learning Rust.
